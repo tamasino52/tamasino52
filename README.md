@@ -7,9 +7,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasino52)](https://github.com/anuraghazra/github-readme-stats)
 
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=tamasino52)](https://github.com/tamasino52)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasino52&layout=compact&hide=Visual%20Basic)](https://github.com/tamasino52)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tamasino52&theme=chalk&row=1&column=5)](https://github.com/tamasino52)  
 
