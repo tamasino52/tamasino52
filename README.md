@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>               
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasino52)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasino52&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tamasino52&theme=chalk&row=1&column=5)](https://github.com/tamasino52)  
 
