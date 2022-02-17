@@ -27,6 +27,7 @@
 ## Implementations of other's paper
 - [UGCN](https://github.com/tamasino52/UGCN)
 - [U-CondDGCN](https://github.com/tamasino52/U-CondDGCN)
+- [UNETR](https://github.com/tamasino52/UNETR)
 
 ## Implementations of my project
 - [Hyundai AI competition, 3D pose estimation project for car passengers](https://github.com/tamasino52/Safety-Pose)
