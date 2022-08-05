@@ -20,9 +20,8 @@
   - (2020.08 ~ 2022.08) Master's degree in Soongsil University, Seoul, KR (Dept. of Software)
 
 	
-## Research Area
+## Main Domain
   - 3D Human Pose Esimation
-  - Image Restoration
 
 ## Implementations of other's paper
 - [UGCN](https://github.com/tamasino52/UGCN)
@@ -31,7 +30,7 @@
 
 ## Implementations of my project
 - [Hyundai AI competition, 3D pose estimation project for car passengers](https://github.com/tamasino52/Safety-Pose)
-- [LG Dacon competition, Flicker removal project](https://github.com/tamasino52/AntiFlareNet)
+- [LG Dacon competition, Image deflaring project](https://github.com/tamasino52/AntiFlareNet)
 - [Railway detection project](https://github.com/tamasino52/Railway_detection)
 - [Soongsil university SW competition, Obstacle detection for train system](https://github.com/tamasino52/Railroad_and_Obstacle_detection)
 - [ITRC: Research on technology based on high-speed video, anti-flicker project](https://github.com/tamasino52/Anti_Flicker)
