@@ -14,6 +14,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tamasino52&row=1&column=5)](https://github.com/tamasino52)
 
 	
+## Portfolio
+https://www.notion.so/48c9444ce26b4411bbf9b2163455fbd4
+
 ## Education
   - (2015.03 ~  2020.08) Bachelor's degree in Soongsil University, Seoul, KR (Dept. of Software)
             - Full tuition (Summa Cum Laude)
