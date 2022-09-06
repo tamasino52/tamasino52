@@ -27,6 +27,7 @@
   - 3D Human Pose Esimation
 
 ## Implementations of other's paper
+- [GraphSH](https://github.com/tamasino52/GraphSH)
 - [UGCN](https://github.com/tamasino52/UGCN)
 - [U-CondDGCN](https://github.com/tamasino52/U-CondDGCN)
 - [UNETR](https://github.com/tamasino52/UNETR)
